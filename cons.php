@@ -1,5 +1,4 @@
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta https-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,7 +7,6 @@
     <link href="https://css/headfoot.css" rel="stylesheet">
     <link href="https://css/cons.css" rel="stylesheet">
 </head>
-
 <body>
     <div class="main-wrapper">
         <header>
@@ -73,7 +71,5 @@
     <p class="copyright">Copyright 2024. Все права защищены.</p>
   </footer>
     </div>
-
 </body>
-
 </html>
