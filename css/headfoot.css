@@ -1,0 +1,100 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 90px;
+    background-color: #1B1818;
+    
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    font-family: Syne;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: white;
+    margin-right: 50px;
+}
+
+nav li a,
+nav li p {
+    display: flex;
+    text-decoration: none;
+    font-family: Syne;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: white;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+
+
+
+.logo-header {
+    cursor: pointer;
+    margin-top: 12px;
+    margin-left: 120px;
+}
+
+.middle a {
+    text-decoration: none;
+    font-family: Syne;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: white;
+    margin-right: 25px;
+
+}
+
+
+footer {
+    width: 100%;
+    background-color: #1B1818;
+    color: white;
+    padding: 20px 0;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .contact p {
+    display: flex;
+    align-items: center;
+  }
+  
+  .contact img {
+    height: 20px;
+    margin-right: 10px;
+  }
+  
+  .navigation a {
+    display: block;
+    margin-bottom: 10px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .social a {
+    margin-right: 15px;
+  }
+  
+  .social img {
+    height: 25px;
+  }
+  
+  .copyright {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    font-size: 12px;
+  }

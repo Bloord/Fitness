@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    background-image: url(http://km/assets/images/reg_back.svg);
+    background-color: #312C27;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    
+}
+
+
+.main-wrapper {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.section {
+    width: 100%;
+    text-align: center;
+    text-decoration: underline;
+    list-style: none;
+    text-decoration: none;
+    flex: 1 1 auto;
+    margin-bottom: 112px;
+}
+
+.squares {
+    display: inline-block;
+    margin-top: 279px;
+    width: 707px;
+    height: 422px;
+    border-radius: 15px;
+    background: #FFE600;
+    box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.31);
+    padding: 30px 50px 30px 50px;
+    gap: 16px;
+}
+
+.wrapper {
+    width: 100%;
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.wrapper .text {
+    display: flex;
+    ;
+    font-family: Syne;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #3B3732;
+    margin-top: 30px;
+    text-align: center;
+    justify-content: stretch;
+    align-items: center;
+    width: 535px;
+    height: 72px;
+}
+
+.input-box input {
+    display: flex;
+    font-size: 20px;
+    border: 0.5px solid #ffe6008e;
+    background: #3C3732;
+    width: 510px;
+    height: 62px;
+    color: white;
+    text-align: center;
+    border-radius: 7px;
+    margin-top: 15px;
+    box-shadow: 0px 4px 10px 0px #00000070;
+    box-shadow: 4px 0px 10px 0px #00000070;
+
+}
+
+.input-box input::placeholder {
+    color: #C6C7CF;
+    font-family: Syne;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 25.8px;
+    text-align: center;
+
+}
+
+
+
+.submit{
+    width: 245px;
+    height: 62px;
+    border-radius: 7px;
+    border:  0.5px solid #ffe6008e;
+    background: #3C3732;
+    color: white;
+    margin-top: 20px;
+    font-family: Syne;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25.8px;
+    box-shadow: 0px 4px 10px 0px #00000070;
+    box-shadow: 4px 0px 10px 0px #00000070;
+}
