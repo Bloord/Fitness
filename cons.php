@@ -3,26 +3,26 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta https-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Консультация</title>
-    <link href="http://css/headfoot.css" rel="stylesheet">
-    <link href="http://css/cons.css" rel="stylesheet">
+    <link href="httpss://css/headfoot.css" rel="stylesheet">
+    <link href="httpss://css/cons.css" rel="stylesheet">
 </head>
 
 <body>
     <div class="main-wrapper">
         <header>
-            <a href="http://index.html"><img src="http://images/logo.svg" alt="logo" class="logo-header"></a>
+            <a href="https://bloord.github.io/Fitness/index.html"><img src="https://bloord.github.io/Fitness/images/logo.svg" alt="logo" class="logo-header"></a>
             <div class="middle">
-            <a href="http://index.html">Абонементы</a>
-                <a href="http://index.htmls">Тренера</a>
-                <a href="http://index.html">ЧаВо</a>
+            <a href="https://bloord.github.io/Fitness/index.html">Абонементы</a>
+                <a href="https://bloord.github.io/Fitness/index.htmls">Тренера</a>
+                <a href="https://bloord.github.io/Fitness/index.html">ЧаВо</a>
             </div>
             <nav>
                 <ul>
                     <li>
-                        <p class="phone"><img src="http://images/phone.svg" alt="труба">8 800 000 00 00
+                        <p class="phone"><img src="https://bloord.github.io/Fitness/images/phone.svg" alt="труба">8 800 000 00 00
                         </p>
                     </li>
                 </ul>
@@ -36,7 +36,7 @@
                             <div id="registration-message" style="color: red;"><?php echo $registration_message; ?></div>
                         <?php endif; ?>
                         <form action="cons.php" method="post">
-                            <img src="http://images/yep.svg" alt="yep" class="yep">
+                            <img src="https://bloord.github.io/Fitness/images/yep.svg" alt="yep" class="yep">
                             <div class="text">
                                 <span>
                                     Чтобы получить консультацию, можете позвонить по номеру 8 800 000 00 00 или оставить
@@ -59,7 +59,7 @@
         <footer>
     <div class="footer-content">
       <div class="contact">
-        <p><img src="http://images/phone_foot.svg" alt="Phone"> 8 800 000 00 00</p>
+        <p><img src="https://bloord.github.io/Fitness/images/phone_foot.svg" alt="Phone"> 8 800 000 00 00</p>
       </div>
       <nav class="navigation">
         <a href="#">Абонементы</a>
@@ -67,8 +67,8 @@
         <a href="#">ЧаВо</a>
       </nav>
       <div class="social">
-        <a href="#"><img src="http://images/vk.svg" alt="VK"></a>
-        <a href="#"><img src="http://images/tg.svg" alt="Telegram"></a>
+        <a href="#"><img src="https://bloord.github.io/Fitness/images/vk.svg" alt="VK"></a>
+        <a href="#"><img src="https://bloord.github.io/Fitness/images/tg.svg" alt="Telegram"></a>
       </div>
     </div>
     <p class="copyright">Copyright 2024. Все права защищены.</p>
