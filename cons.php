@@ -6,8 +6,8 @@
     <meta https-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Консультация</title>
-    <link href="httpss://css/headfoot.css" rel="stylesheet">
-    <link href="httpss://css/cons.css" rel="stylesheet">
+    <link href="https://css/headfoot.css" rel="stylesheet">
+    <link href="https://css/cons.css" rel="stylesheet">
 </head>
 
 <body>
