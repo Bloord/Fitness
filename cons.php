@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,14 +6,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Консультация</title>
-    <link href="http://km/assets/css/headfoot.css" rel="stylesheet">
-    <link href="http://km/assets/css/cons.css" rel="stylesheet">
+    <link href="http://km/css/headfoot.css" rel="stylesheet">
+    <link href="http://km/css/cons.css" rel="stylesheet">
 </head>
 
 <body>
     <div class="main-wrapper">
         <header>
-            <a href="http://km/index.html"><img src="http://km/assets/images/logo.svg" alt="logo" class="logo-header"></a>
+            <a href="http://km/index.html"><img src="http://km/images/logo.svg" alt="logo" class="logo-header"></a>
             <div class="middle">
             <a href="http://km/index.html">Абонементы</a>
                 <a href="http://km/index.htmls">Тренера</a>
@@ -24,7 +22,7 @@
             <nav>
                 <ul>
                     <li>
-                        <p class="phone"><img src="http://km/assets/images/phone.svg" alt="труба">8 800 000 00 00
+                        <p class="phone"><img src="http://km/images/phone.svg" alt="труба">8 800 000 00 00
                         </p>
                     </li>
                 </ul>
@@ -38,7 +36,7 @@
                             <div id="registration-message" style="color: red;"><?php echo $registration_message; ?></div>
                         <?php endif; ?>
                         <form action="cons.php" method="post">
-                            <img src="http://km/assets/images/yep.svg" alt="yep" class="yep">
+                            <img src="http://km/images/yep.svg" alt="yep" class="yep">
                             <div class="text">
                                 <span>
                                     Чтобы получить консультацию, можете позвонить по номеру 8 800 000 00 00 или оставить
@@ -61,7 +59,7 @@
         <footer>
     <div class="footer-content">
       <div class="contact">
-        <p><img src="http://km/assets/images/phone_foot.svg" alt="Phone"> 8 800 000 00 00</p>
+        <p><img src="http://km/images/phone_foot.svg" alt="Phone"> 8 800 000 00 00</p>
       </div>
       <nav class="navigation">
         <a href="#">Абонементы</a>
@@ -69,8 +67,8 @@
         <a href="#">ЧаВо</a>
       </nav>
       <div class="social">
-        <a href="#"><img src="http://km/assets/images/vk.svg" alt="VK"></a>
-        <a href="#"><img src="http://km/assets/images/tg.svg" alt="Telegram"></a>
+        <a href="#"><img src="http://km/images/vk.svg" alt="VK"></a>
+        <a href="#"><img src="http://km/images/tg.svg" alt="Telegram"></a>
       </div>
     </div>
     <p class="copyright">Copyright 2024. Все права защищены.</p>
